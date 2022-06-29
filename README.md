@@ -4,14 +4,14 @@
 <meta name="viewport" content="width=device-widtch, initial-scale=1.0">
      
 
-#/head
+
 <div class="title"></div>
 <center><h1  class="card-text">Проект 1</h1> <p></center>
 
  <center form action="handler.php">
     <input  type="search" >
       <input type="button" value="Поиск:"  ></center>
-       <img class="card-photo" src="%D1%87%D0%B5%D1%87%D0%BD%D1%8F.png">
+       <img class="card-photo" >
 
   <input type="button" class="b1"   name="simple_btn" value= "Регион: Чеченская республика">
 
@@ -40,7 +40,7 @@
             name="simple_btn" type="button"> хранилище </button>
 
 
-<img src=../html/img/%D0%B1%D0%B5%D1%80%D0%B3%D0%BC%D0%B0%D0%BD.png >
+
 
 
 <html></html>
@@ -48,7 +48,7 @@
 <html>
  <input  type="file" id="fileupload" name="fileupload"/>
 <button  onlick="uploadFile()"  id="upload-button" > Загрузить файл</button>
-        <script src="main.js"></script>
+       
          <p><img  class="simple-photo"  src=../html/%D1%80%D1%83%D1%81.png  type="button" > </p>
          <p> <input type="text" required maxlength="35" placeholder="имя:"> <input type="date"  min="2010" >
          <p>

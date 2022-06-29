@@ -13,7 +13,7 @@
  <center form action="handler.php">
     <input  type="search" >
       <input type="button" value="Поиск:"  ></center>
-       <img class="card-photo" src="%D1%87%D0%B5%D1%87%D0%BD%D1%8F.png">
+     
 
   <input type="button" class="b1"   name="simple_btn" value= "Регион: Чеченская республика">
 
@@ -41,8 +41,8 @@
          <button   class="card-button"
             name="simple_btn" type="button"> хранилище </button>
 
-
-<img src=../html/img/%D0%B1%D0%B5%D1%80%D0%B3%D0%BC%D0%B0%D0%BD.png >
+![This is an image](https://avatars.mds.yandex.net/get-images-cbir/988181/s-34L2prHAGyH-NB464Scg3874/ocr)
+![This is an image](https://avatars.mds.yandex.net/get-images-cbir/1608303/TKRO7PoIz0G5ioONFY-wFA3932/ocr)
 
          <html> </html> 
 

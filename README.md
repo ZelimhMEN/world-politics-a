@@ -1,3 +1,3 @@
 # world-politics-a
 
-index (основа).html
+#index (основа).html

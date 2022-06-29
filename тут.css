@@ -1,0 +1,47 @@
+body {
+background-color:dimgrey;
+}
+
+.card-text {
+    text-align:;
+    color:black;
+    font-size: 25px;
+    line-height: 0;
+}
+.card-photo {
+     height: 200px;
+
+}
+.button {
+    color:aliceblue;
+
+}
+
+.input.type-file {
+    display:none;
+}
+
+.simple-photo {
+border-radius: 150%;
+height: 120px;
+
+}
+
+.b1 {
+    background:aliceblue;
+* Синий цвет фона */
+    color:black; /* Белые буквы */
+    font-size: 10pt; /* Размер шрифта в пунктах */
+}
+#upload-btn {
+  padding: 10px;
+    background-color:darkgrey;
+  border: 2px solid #333;
+    border-radius: 5px;
+
+}
+.table {
+color:black;
+    font-size: 215px;
+    line-height: 0;
+}

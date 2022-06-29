@@ -1,15 +1,10 @@
 # world-politics-a
 
-
-<!doctype html>
-<html> </html>
-    <head>
  <meta charset="utf-8">
 <meta name="viewport" content="width=device-widtch, initial-scale=1.0">
-     <link rel="stylesheet" href="stale.css">
-     <title> Основной сайт </title>
+     
 
-</head>
+#/head
 <div class="title"></div>
 <center><h1  class="card-text">Проект 1</h1> <p></center>
 

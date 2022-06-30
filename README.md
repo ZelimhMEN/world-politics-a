@@ -1,12 +1,12 @@
 # world-politics-a
 
 <html> </html>
-    <head>
+ 
  <meta charset="utf-8">
 <meta name="viewport" content="width=device-widtch, initial-scale=1.0">
-     <link rel="stylesheet" href="stale.css">
+    
      
-</head>
+
 <div class="title"></div>
 <center><h1  class="card-text">Проект 1</h1> <p></center>
 
@@ -50,7 +50,7 @@
  <input  type="file" id="fileupload" name="fileupload"/>
 <button  onlick="uploadFile()"  id="upload-button" > Загрузить файл</button>
         
-         <p><img  class="simple-photo"  src=../html/%D1%80%D1%83%D1%81.png  type="button" > </p>
+         <p></p>
          <p> <input type="text" required maxlength="35" placeholder="имя:"> <input type="date"  min="2010" >
          <p>
 <p></p> <input type="text" required maxlength="35" placeholder="Уровень:" >
@@ -60,7 +60,7 @@
             <p></p><input type="text" required maxlength="35" placeholder="координация:" >
 
 <center> <div id="chat">
-  <table>
+ 
     <tr>
 
     <tr>
@@ -68,18 +68,12 @@
       <td>Сообщение</td>
 
     </tr>
-  </table>
-</div>
+
 <p>
   <input type="text" name="message" id="message" />
   <input type="button" value="Отправить" onclick="send()" />
 
 
 </p>
-
-</center>
-
-</html>
-
 
 

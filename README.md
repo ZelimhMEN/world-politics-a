@@ -4,7 +4,7 @@
  
  <meta charset="utf-8">
 <meta name="viewport" content="width=device-widtch, initial-scale=1.0">
-    
+     <link rel="stylesheet" href="stale.css">
      
 
 <div class="title"></div>
